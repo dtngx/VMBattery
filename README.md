@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=2poD8W8kmVU
 ![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/cellType18650MJ1_low.JPG?raw=true)
 ## Broken Fuse on BMS (SFK-4045 type)
 ![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/originalBrokenFuse_low.jpg?raw=true)
+
+# Images of the smart cartridge pcb
+![alt text](https://github.com/dtngx/VMBattery/blob/main/cartridgeImages/pcbOverview_stichedPano_high.jpg?raw=true)

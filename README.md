@@ -8,6 +8,8 @@ https://www.reddit.com/r/vanmoofbicycle/comments/16bkrxn/my_findings_in_diagnosi
 and the underlying youtube video:
 https://www.youtube.com/watch?v=2poD8W8kmVU
 
+More images can be found in the corresponding folders.
+
 # Images of the battery management system (BMS)
 ## whole battery overview
 ![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/wholeBatteryModule_low.JPG?raw=true)

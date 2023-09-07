@@ -9,3 +9,11 @@ and the underlying youtube video:
 https://www.youtube.com/watch?v=2poD8W8kmVU
 
 # Images of the battery management system (BMS)
+## whole battery overview
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/wholeBatteryModule_low.JPG?raw=true)
+## Tubing of the battery
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/batteryTube_low.JPG?raw=true)
+## Battery cell type
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/cellType18650MJ1_low.JPG?raw=true)
+## Broken Fuse on BMS (SFK-4045 type)
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/originalBrokenFuse_low.jpg?raw=true)

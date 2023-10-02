@@ -25,3 +25,11 @@ Please feel free to contribute to this repo by adding information or images thro
 
 # Images of the smart cartridge pcb
 ![alt text](https://github.com/dtngx/VMBattery/blob/main/cartridgeImages/pcbOverview_stichedPano_high.jpg?raw=true)
+
+# Pinout of the battery connector - seems it communicates using 5v or 3v3 RS232 with the bicycle.
+
+ <TODO> add link to battery connector with pinout and TX/RX in batteryimages folder.
+
+# SWD connections on battery circuit board - maybe possible to extract firmware
+
+<TODO> add link of SWD connections on circuit board, the one with VCC and DIO.

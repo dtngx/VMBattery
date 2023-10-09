@@ -28,8 +28,8 @@ Please feel free to contribute to this repo by adding information or images thro
 
 # Pinout of the battery connector - seems it communicates using 5v or 3v3 RS232 with the bicycle.
 
- <TODO> add link to battery connector with pinout and TX/RX in batteryimages folder.
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/batteryConnectorPinout.jpg?raw=true)
 
 # SWD connections on battery circuit board - maybe possible to extract firmware
 
-<TODO> add link of SWD connections on circuit board, the one with VCC and DIO.
+![alt text](https://github.com/dtngx/VMBattery/blob/main/batteryImages/batterySWDConnections.jpg?raw=true)
